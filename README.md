@@ -35,7 +35,9 @@ For the emulator to work you need to setup a web server like Live-Server.
 #### CONTROLS
 To control the emulator use:
 
+```
 1234
 QWER
 ASDF
 ZXCV
+```
