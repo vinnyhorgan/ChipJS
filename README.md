@@ -31,3 +31,11 @@ You can get Chip-8 ROMs from [this](https://github.com/dmatlack/chip8/tree/maste
 
 #### IMPORTANT
 For the emulator to work you need to setup a web server like Live-Server.
+
+#### CONTROLS
+To control the emulator use:
+
+1234
+QWER
+ASDF
+ZXCV
