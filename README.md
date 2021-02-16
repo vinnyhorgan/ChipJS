@@ -28,3 +28,6 @@ const chip = new ChipJS("YOUR ROM NAME GOES HERE");
 To add roms to the emulator simply create a roms folder and put your roms there, then substitute the rom name in the example with the name of the rom you want (the roms folder will be automatically referenced).
 
 You can get Chip-8 ROMs from [this](https://github.com/dmatlack/chip8/tree/master/roms) GitHub repository.
+
+#### IMPORTANT
+For the emulator to work you need to setup a web server like Live-Server.
